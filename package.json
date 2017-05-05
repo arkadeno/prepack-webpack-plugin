@@ -11,7 +11,7 @@
     "require": "babel-loader"
   },
   "dependencies": {
-    "prepack": "git@github.com://github.com/facebook/prepack.git#d7bc38602648cbe1e4c396ab61e7fadd13525cc2",
+    "prepack": "git+https://github.com/facebook/prepack.git#d7bc38602648cbe1e4c396ab61e7fadd13525cc2",
     "webpack-sources": "^0.2.3"
   },
   "description": "A webpack plugin for prepack.",
